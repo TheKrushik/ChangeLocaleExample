@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Tue Dec 20 17:37:39 EET 2016
+1.base=E\:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=E\:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+2.base=E\:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=E\:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+count=4
+1.set=ANDROID_RESOURCE
+3.base=E\:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=E\:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=E\:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.file=E\:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png

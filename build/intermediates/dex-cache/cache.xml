@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Develop\Android\MyProject\MyTest\ChangeLocaleExample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a89c81bcc6614a30896b760c3a33664e586f80b4">
+        <dex dex="E:\Develop\Android\MyProject\MyTest\ChangeLocaleExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_da7bca267d3b1977eb93c3e96b4e35e56eec4910\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Develop\Android\MyProject\MyTest\ChangeLocaleExample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ebf92efb21c9f9362a9a04d8028f5eb91d277e82">
+        <dex dex="E:\Develop\Android\MyProject\MyTest\ChangeLocaleExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ad5f393593f76999392f55ca7e62f95ac72d5995\classes.dex" />
+    </item>
+
+</items>

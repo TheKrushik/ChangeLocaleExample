@@ -1,0 +1,7 @@
+#Tue Dec 20 17:34:35 EET 2016
+base.0=E\:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ad5f393593f76999392f55ca7e62f95ac72d5995
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_da7bca267d3b1977eb93c3e96b4e35e56eec4910\\classes.dex
+base.1=E\:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_da7bca267d3b1977eb93c3e96b4e35e56eec4910
+file.0=E\:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ad5f393593f76999392f55ca7e62f95ac72d5995\\classes.dex
