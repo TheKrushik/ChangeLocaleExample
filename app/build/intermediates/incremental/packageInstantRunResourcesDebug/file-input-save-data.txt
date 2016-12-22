@@ -1,15 +1,18 @@
 #Internal package file, do not edit.
-#Tue Dec 20 17:37:39 EET 2016
+#Thu Dec 22 17:49:24 EET 2016
 1.base=E\:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\build\\intermediates\\res\\resources-debug.ap_
-1.file=E\:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+4.file=E\:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.file=E\:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
+4.set=ANDROID_RESOURCE
 2.base=E\:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\build\\intermediates\\res\\resources-debug.ap_
 3.set=ANDROID_RESOURCE
 2.set=ANDROID_RESOURCE
-2.file=E\:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
-count=4
+2.file=E\:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+count=5
 1.set=ANDROID_RESOURCE
 3.base=E\:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\build\\intermediates\\res\\resources-debug.ap_
 0.set=ANDROID_RESOURCE
 0.base=E\:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\build\\intermediates\\res\\resources-debug.ap_
-3.file=E\:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
-0.file=E\:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
+3.file=E\:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.file=E\:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\menu_language.xml
+4.base=E\:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\build\\intermediates\\res\\resources-debug.ap_

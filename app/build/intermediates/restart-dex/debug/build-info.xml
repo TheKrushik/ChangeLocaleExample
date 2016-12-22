@@ -5,13 +5,13 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="28630859027666"
+    timestamp="108470353840831"
     token="3312911396749082761"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="99" />
+        duration="212" />
     <task
         name="instant-run-dex"
         duration="0" />
@@ -23,25 +23,59 @@
         duration="4" />
 
     <artifact
-        location="E:\Develop\Android\MyProject\MyTest\ChangeLocaleExample\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
-    <artifact
         location="E:\Develop\Android\MyProject\MyTest\ChangeLocaleExample\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
         type="DEX" />
 
     <build
-        timestamp="28445350624726"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="103273609552133"
+        verifier="BINARY_MANIFEST_FILE_CHANGE" >
         <artifact
             location="E:\Develop\Android\MyProject\MyTest\ChangeLocaleExample\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="28630859027666"
+        timestamp="108128417702244"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="E:\Develop\Android\MyProject\MyTest\ChangeLocaleExample\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
             type="RESOURCES" />
+        <artifact
+            location="E:\Develop\Android\MyProject\MyTest\ChangeLocaleExample\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\Develop\Android\MyProject\MyTest\ChangeLocaleExample\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\Develop\Android\MyProject\MyTest\ChangeLocaleExample\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\Develop\Android\MyProject\MyTest\ChangeLocaleExample\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\Develop\Android\MyProject\MyTest\ChangeLocaleExample\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\Develop\Android\MyProject\MyTest\ChangeLocaleExample\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\Develop\Android\MyProject\MyTest\ChangeLocaleExample\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\Develop\Android\MyProject\MyTest\ChangeLocaleExample\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\Develop\Android\MyProject\MyTest\ChangeLocaleExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_da7bca267d3b1977eb93c3e96b4e35e56eec4910\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\Develop\Android\MyProject\MyTest\ChangeLocaleExample\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\Develop\Android\MyProject\MyTest\ChangeLocaleExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ad5f393593f76999392f55ca7e62f95ac72d5995\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="108470353840831"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="E:\Develop\Android\MyProject\MyTest\ChangeLocaleExample\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
             type="DEX" />

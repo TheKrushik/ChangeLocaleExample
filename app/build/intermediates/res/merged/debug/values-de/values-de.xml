@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="btn_de">Deutsch</string>
-    <string name="btn_en">Englisch</string>
-    <string name="btn_fr">Französisch</string>
-    <string name="btn_ru">Russisch</string>
-    <string name="hello_world">Hallo Welt</string>
-</resources>

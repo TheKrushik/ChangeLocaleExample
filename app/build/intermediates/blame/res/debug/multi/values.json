@@ -11,14 +11,7 @@
                     "endOffset": 107
                 },
                 "from": {
-                    "file": "E:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 56,
-                        "endColumn": 56,
-                        "endOffset": 108
-                    }
+                    "file": "E:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -26,93 +19,65 @@
                     "startLine": 3,
                     "startColumn": 4,
                     "startOffset": 112,
-                    "endColumn": 41,
-                    "endOffset": 149
+                    "endColumn": 42,
+                    "endOffset": 150
                 },
                 "from": {
-                    "file": "E:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 256,
-                        "endColumn": 41,
-                        "endOffset": 293
-                    }
+                    "file": "E:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 154,
+                    "startOffset": 155,
                     "endColumn": 42,
-                    "endOffset": 192
+                    "endOffset": 193
                 },
                 "from": {
-                    "file": "E:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 170,
-                        "endColumn": 42,
-                        "endOffset": 208
-                    }
+                    "file": "E:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 197,
-                    "endColumn": 41,
-                    "endOffset": 234
+                    "startOffset": 198,
+                    "endColumn": 42,
+                    "endOffset": 236
                 },
                 "from": {
-                    "file": "E:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 298,
-                        "endColumn": 41,
-                        "endOffset": 335
-                    }
+                    "file": "E:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 239,
-                    "endColumn": 42,
-                    "endOffset": 277
+                    "startOffset": 241,
+                    "endColumn": 51,
+                    "endOffset": 288
                 },
                 "from": {
-                    "file": "E:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 213,
-                        "endColumn": 42,
-                        "endOffset": 251
-                    }
+                    "file": "E:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 282,
-                    "endColumn": 51,
-                    "endOffset": 329
+                    "startOffset": 293,
+                    "endColumn": 55,
+                    "endOffset": 344
                 },
                 "from": {
                     "file": "E:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 118,
-                        "endColumn": 51,
-                        "endOffset": 165
+                        "startOffset": 299,
+                        "endColumn": 55,
+                        "endOffset": 350
                     }
                 }
             }

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="hello_world">Привіт, Світ</string>
+    <string name="btn_en">Англійська</string>
+    <string name="btn_ru">Русійська</string>
+    <string name="btn_uk">Українська</string>
+    <string name="tv_lenguage">Мова(клікни)</string>
+
+</resources>
