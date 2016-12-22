@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\Dev\\Android\\MyProject\\ChangeLocaleExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\Dev\\Android\\MyProject\\ChangeLocaleExample\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
         "merged": "E:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
         "source": "E:\\Develop\\Android\\MyProject\\MyTest\\ChangeLocaleExample\\app\\src\\main\\res\\drawable\\icon.png"
     }

@@ -82,5 +82,124 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "D:\\Dev\\Android\\MyProject\\ChangeLocaleExample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "D:\\Dev\\Android\\MyProject\\ChangeLocaleExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 56,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 112,
+                    "endColumn": 42,
+                    "endOffset": 150
+                },
+                "from": {
+                    "file": "D:\\Dev\\Android\\MyProject\\ChangeLocaleExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 42,
+                        "endOffset": 214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 155,
+                    "endColumn": 42,
+                    "endOffset": 193
+                },
+                "from": {
+                    "file": "D:\\Dev\\Android\\MyProject\\ChangeLocaleExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endColumn": 42,
+                        "endOffset": 258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 198,
+                    "endColumn": 42,
+                    "endOffset": 236
+                },
+                "from": {
+                    "file": "D:\\Dev\\Android\\MyProject\\ChangeLocaleExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 264,
+                        "endColumn": 42,
+                        "endOffset": 302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 241,
+                    "endColumn": 51,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "D:\\Dev\\Android\\MyProject\\ChangeLocaleExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 123,
+                        "endColumn": 51,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 55,
+                    "endOffset": 344
+                },
+                "from": {
+                    "file": "D:\\Dev\\Android\\MyProject\\ChangeLocaleExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 308,
+                        "endColumn": 55,
+                        "endOffset": 359
+                    }
+                }
+            }
+        ]
     }
 ]
